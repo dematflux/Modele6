@@ -1,0 +1,44 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    multi_json (1.15.0)
+    mustermann (2.0.2)
+      ruby2_keywords (~> 0.0.1)
+    power_assert (2.0.1)
+    rack (2.2.4)
+    rack-protection (2.2.2)
+      rack
+    ruby2_keywords (0.0.5)
+    sinatra (2.2.2)
+      mustermann (~> 2.0)
+      rack (~> 2.2)
+      rack-protection (= 2.2.2)
+      tilt (~> 2.0)
+    sinatra-contrib (2.2.2)
+      multi_json
+      mustermann (~> 2.0)
+      rack-protection (= 2.2.2)
+      sinatra (= 2.2.2)
+      tilt (~> 2.0)
+    test-unit (3.5.3)
+      power_assert
+    tilt (2.0.11)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  sinatra (>= 1.4.0)
+  sinatra-contrib
+  test-unit
+  nokogiri
+  thin
+  puma
+  reel
+  http
+  webrick
+  rexml
+  
+
+BUNDLED WITH
+   2.3.19
