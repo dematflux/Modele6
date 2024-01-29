@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DonnesDeConfiguration3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nom>217_SELAS DU DR VINCENT TERRIER - 022 - 021 - 920 - 955</Nom>
+  <DonneesDeChampsGeneral>
+    <MotDePasseScanner />
+    <Contact />
+    <Emplacement />
+    <Volume>MOYEN</Volume>
+    <AlerteMaintenanceProgrammee>False</AlerteMaintenanceProgrammee>
+    <HeureEteAuto>True</HeureEteAuto>
+    <SynchroniserSntp>True</SynchroniserSntp>
+    <InterfaceReseau>True</InterfaceReseau>
+    <ObjetEmail />
+    <MessageEmail />
+    <LimiteTaille>False</LimiteTaille>
+    <TailleMaxi>10</TailleMaxi>
+    <DemanderNotif>False</DemanderNotif>
+    <AdresseSmtp />
+    <Port>585</Port>
+    <MethodeAuth>AUCUN</MethodeAuth>
+    <NomDuCompte />
+    <MotDePasse />
+    <SslTls>AUCUN</SslTls>
+    <VerifCertif>False</VerifCertif>
+    <AdresseEmailPeriph />
+    <ClePublique />
+    <StyleNomDeFichier>name_date_counter</StyleNomDeFichier>
+    <NuméroDeSérie>E81471A2X119519</NuméroDeSérie>
+  </DonneesDeChampsGeneral>
+  <DonneesDeChampsProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_1</NumOnglet>
+      <PosRaccourci>_1</PosRaccourci>
+      <AffichageRaccourci>Achats SELAS DU DR VINCENT TERRIER 217 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXAV/217_SELAS_DU_DR_VINCENT_TERRIER/Achats</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Achats VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_1</NumOnglet>
+      <PosRaccourci>_2</PosRaccourci>
+      <AffichageRaccourci>Ventes SELAS DU DR VINCENT TERRIER 217 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXAV/217_SELAS_DU_DR_VINCENT_TERRIER/Ventes</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Ventes VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_1</NumOnglet>
+      <PosRaccourci>_3</PosRaccourci>
+      <AffichageRaccourci>Banques SELAS DU DR VINCENT TERRIER 217 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/217_SELAS_DU_DR_VINCENT_TERRIER/Banques</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Banques VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_1</NumOnglet>
+      <PosRaccourci>_4</PosRaccourci>
+      <AffichageRaccourci>Divers SELAS DU DR VINCENT TERRIER 217 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/217_SELAS_DU_DR_VINCENT_TERRIER/Divers</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Divers VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_1</NumOnglet>
+      <PosRaccourci>_5</PosRaccourci>
+      <AffichageRaccourci>Juridique SELAS DU DR VINCENT TERRIER 217 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/217_SELAS_DU_DR_VINCENT_TERRIER/Juridique</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Juridique VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_1</NumOnglet>
+      <PosRaccourci>_6</PosRaccourci>
+      <AffichageRaccourci>Social SELAS DU DR VINCENT TERRIER 217 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/217_SELAS_DU_DR_VINCENT_TERRIER/Social</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Social VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_2</NumOnglet>
+      <PosRaccourci>_1</PosRaccourci>
+      <AffichageRaccourci>Achats SCM DENTAIRE DE PITRES 022 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXAV/022_SCM_DENTAIRE_DE_PITRES/Achats</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Achats VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_2</NumOnglet>
+      <PosRaccourci>_2</PosRaccourci>
+      <AffichageRaccourci>Ventes SCM DENTAIRE DE PITRES 022 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXAV/022_SCM_DENTAIRE_DE_PITRES/Ventes</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Ventes VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_2</NumOnglet>
+      <PosRaccourci>_3</PosRaccourci>
+      <AffichageRaccourci>Banques SCM DENTAIRE DE PITRES 022 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/022_SCM_DENTAIRE_DE_PITRES/Banques</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Banques VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_2</NumOnglet>
+      <PosRaccourci>_4</PosRaccourci>
+      <AffichageRaccourci>Divers SCM DENTAIRE DE PITRES 022 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/022_SCM_DENTAIRE_DE_PITRES/Divers</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Divers VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_2</NumOnglet>
+      <PosRaccourci>_5</PosRaccourci>
+      <AffichageRaccourci>Juridique SCM DENTAIRE DE PITRES 022 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/022_SCM_DENTAIRE_DE_PITRES/Juridique</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Juridique VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_2</NumOnglet>
+      <PosRaccourci>_6</PosRaccourci>
+      <AffichageRaccourci>Social SCM DENTAIRE DE PITRES 022 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/022_SCM_DENTAIRE_DE_PITRES/Social</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Social VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_3</NumOnglet>
+      <PosRaccourci>_1</PosRaccourci>
+      <AffichageRaccourci>Achats SCM ANDRIEU 021 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXAV/021_SCM_ANDRIEU/Achats</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Achats VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_3</NumOnglet>
+      <PosRaccourci>_2</PosRaccourci>
+      <AffichageRaccourci>Ventes SCM ANDRIEU 021 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXAV/021_SCM_ANDRIEU/Ventes</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Ventes VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_3</NumOnglet>
+      <PosRaccourci>_3</PosRaccourci>
+      <AffichageRaccourci>Banques SCM ANDRIEU 021 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/021_SCM_ANDRIEU/Banques</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Banques VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_3</NumOnglet>
+      <PosRaccourci>_4</PosRaccourci>
+      <AffichageRaccourci>Divers SCM ANDRIEU 021 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/021_SCM_ANDRIEU/Divers</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Divers VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_3</NumOnglet>
+      <PosRaccourci>_5</PosRaccourci>
+      <AffichageRaccourci>Juridique SCM ANDRIEU 021 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/021_SCM_ANDRIEU/Juridique</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Juridique VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_3</NumOnglet>
+      <PosRaccourci>_6</PosRaccourci>
+      <AffichageRaccourci>Social SCM ANDRIEU 021 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/021_SCM_ANDRIEU/Social</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Social VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_4</NumOnglet>
+      <PosRaccourci>_1</PosRaccourci>
+      <AffichageRaccourci>Achats SCI PISTERIENNE DE SANTE 920 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXAV/920_SCI_PISTERIENNE/Achats</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Achats VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_4</NumOnglet>
+      <PosRaccourci>_2</PosRaccourci>
+      <AffichageRaccourci>Ventes SCI PISTERIENNE DE SANTE 920 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXAV/920_SCI_PISTERIENNE/Ventes</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Ventes VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_4</NumOnglet>
+      <PosRaccourci>_3</PosRaccourci>
+      <AffichageRaccourci>Banques SCI PISTERIENNE DE SANTE 920 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/920_SCI_PISTERIENNE/Banques</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Banques VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_4</NumOnglet>
+      <PosRaccourci>_4</PosRaccourci>
+      <AffichageRaccourci>Divers SCI PISTERIENNE DE SANTE 920 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/920_SCI_PISTERIENNE/Divers</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Divers VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_4</NumOnglet>
+      <PosRaccourci>_5</PosRaccourci>
+      <AffichageRaccourci>Juridique SCI PISTERIENNE DE SANTE 920 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/920_SCI_PISTERIENNE/Juridique</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Juridique VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_4</NumOnglet>
+      <PosRaccourci>_6</PosRaccourci>
+      <AffichageRaccourci>Social SCI PISTERIENNE DE SANTE 920 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/920_SCI_PISTERIENNE/Social</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Social VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_5</NumOnglet>
+      <PosRaccourci>_1</PosRaccourci>
+      <AffichageRaccourci>Achats SCI DE L EGLISE 955 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXAV/955_SCI_DE_L_EGLISE/Achats</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Achats VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_5</NumOnglet>
+      <PosRaccourci>_2</PosRaccourci>
+      <AffichageRaccourci>Ventes SCI DE L EGLISE 955 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXAV/955_SCI_DE_L_EGLISE/Ventes</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Ventes VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_5</NumOnglet>
+      <PosRaccourci>_3</PosRaccourci>
+      <AffichageRaccourci>Banques SCI DE L EGLISE 955 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/955_SCI_DE_L_EGLISE/Banques</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Banques VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_5</NumOnglet>
+      <PosRaccourci>_4</PosRaccourci>
+      <AffichageRaccourci>Divers SCI DE L EGLISE 955 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/955_SCI_DE_L_EGLISE/Divers</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Divers VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_5</NumOnglet>
+      <PosRaccourci>_5</PosRaccourci>
+      <AffichageRaccourci>Juridique SCI DE L EGLISE 955 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/955_SCI_DE_L_EGLISE/Juridique</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Juridique VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_5</NumOnglet>
+      <PosRaccourci>_6</PosRaccourci>
+      <AffichageRaccourci>Social SCI DE L EGLISE 955 VINCENT</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-POLIVIER</NomUtilisateur>
+      <MotDePasse>dD64w5Cj</MotDePasse>
+      <Chemin>DFLUXGED/955_SCI_DE_L_EGLISE/Social</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Social VINCENT</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+  </DonneesDeChampsProfil>
+</DonnesDeConfiguration3>

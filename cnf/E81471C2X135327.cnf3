@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DonnesDeConfiguration3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nom>PNVA</Nom>
+  <DonneesDeChampsGeneral>
+    <MotDePasseScanner />
+    <Contact />
+    <Emplacement />
+    <Volume>FORT</Volume>
+    <AlerteMaintenanceProgrammee>False</AlerteMaintenanceProgrammee>
+    <HeureEteAuto>True</HeureEteAuto>
+    <SynchroniserSntp>True</SynchroniserSntp>
+    <InterfaceReseau>True</InterfaceReseau>
+    <ObjetEmail />
+    <MessageEmail />
+    <LimiteTaille>True</LimiteTaille>
+    <TailleMaxi>10</TailleMaxi>
+    <DemanderNotif>False</DemanderNotif>
+    <AdresseSmtp />
+    <Port>585</Port>
+    <MethodeAuth>AUCUN</MethodeAuth>
+    <NomDuCompte />
+    <MotDePasse />
+    <SslTls>AUCUN</SslTls>
+    <VerifCertif>False</VerifCertif>
+    <AdresseEmailPeriph />
+    <ClePublique />
+    <StyleNomDeFichier>name_date_counter</StyleNomDeFichier>
+    <NuméroDeSérie>E81471C2X135327</NuméroDeSérie>
+  </DonneesDeChampsGeneral>
+  <DonneesDeChampsProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_1</NumOnglet>
+      <PosRaccourci>_1</PosRaccourci>
+      <AffichageRaccourci>Achats PNVA</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>20.216.128.180</AdresseHoteEmail>
+      <NomUtilisateur>CNX\acdftp</NomUtilisateur>
+      <MotDePasse>97=a2TEz/</MotDePasse>
+      <Chemin>CPNVA/1</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Achats</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_300</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_1</NumOnglet>
+      <PosRaccourci>_2</PosRaccourci>
+      <AffichageRaccourci>Ventes PNVA</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>20.216.128.180</AdresseHoteEmail>
+      <NomUtilisateur>CNX\acdftp</NomUtilisateur>
+      <MotDePasse>97=a2TEz/</MotDePasse>
+      <Chemin>CPNVA/2</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Ventes</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_300</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_1</NumOnglet>
+      <PosRaccourci>_3</PosRaccourci>
+      <AffichageRaccourci>RLV PNVA</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>20.216.128.180</AdresseHoteEmail>
+      <NomUtilisateur>CNX\acdftp</NomUtilisateur>
+      <MotDePasse>97=a2TEz/</MotDePasse>
+      <Chemin>CPNVA/4</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Banques</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_1</NumOnglet>
+      <PosRaccourci>_4</PosRaccourci>
+      <AffichageRaccourci>Documents PNVA</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>20.216.128.180</AdresseHoteEmail>
+      <NomUtilisateur>CNX\acdftp</NomUtilisateur>
+      <MotDePasse>97=a2TEz/</MotDePasse>
+      <Chemin>CPNVA/5</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Divers</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+  </DonneesDeChampsProfil>
+</DonnesDeConfiguration3>
