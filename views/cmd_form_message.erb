@@ -1,0 +1,29 @@
+<DisplayForm>
+   <Script>
+      <![CDATA[
+      <UiScreen infoLevel="Normal">
+         <Title><%= @prmtr[:form_msg][:pagetitle] %></Title>
+         <AutoTransition>300</AutoTransition>
+         <Operations>
+            <% if @prmtr[:form_msg][:submit]  %>
+            <Op type="Submit" action="<%= @prmtr[:form_msg][:submit] %>">
+            </Op>
+            <% end %>
+            <% if @prmtr[:form_msg][:back] %>
+            <Op type="Back" action="<%= @prmtr[:form_msg][:back] %>">
+            </Op>
+            <% end %>
+         </Operations>
+         <IoScreen>
+            <IoObject>
+               <Title><%= @prmtr[:form_msg][:objtitle] %></Title>
+               <Description><%= @prmtr[:form_msg][:description] %></Description>
+               <Message>
+                  <%= @prmtr[:form_msg][:msgbody] %>
+               </Message>
+            </IoObject>
+         </IoScreen>
+      </UiScreen>
+      ]]>
+   </Script>
+</DisplayForm>

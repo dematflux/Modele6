@@ -1,0 +1,4 @@
+<%# Trick for cramming multiple commands in a 'SerioCommands' tree. %>
+<% @prmtr[:cmds].each do |cmd| %>
+  <%= erb cmd %> <%# Include another erb template. %>
+<% end %>
