@@ -1,5 +1,5 @@
 #  -*- coding: utf-8-unix -*-
-ruby "3.1.2"
+ruby "3.1.4"
 source 'https://rubygems.org'
 
 gem 'sinatra', '>=1.4.0'
