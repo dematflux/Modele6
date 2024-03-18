@@ -204,7 +204,7 @@ def build_iojob(endpoint, phase=nil)
 			:singlepagefile => singlepagefile,
 			:autodeskew => autodeskew,
 			:skipblankpage => get_entry_from(profil_choisi, "//SauterPagesVierges").downcase,
-			:skipblankpagesensitivity => "Normal",
+			:skipblankpagesensitivity => 0,
 			:shortedgebinding => shortedgebinding,
 			:submit => "/fin"
 		}
