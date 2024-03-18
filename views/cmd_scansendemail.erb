@@ -1,0 +1,22 @@
+<IoScanAndSend>
+  <TxProfiles>
+    <Smtp>
+      <Destination><%= @prmtr[:scanemail][:email] %></Destination>
+      <Subject><%= @prmtr[:scanemail][:subject] %></Subject>
+      <MsgBody><%= @prmtr[:scanemail][:msgbody] %></MsgBody>
+	  <FileName><%= @prmtr[:scanemail][:filename] %></FileName>
+    </Smtp>
+  </TxProfiles>
+	<DocSize>Auto</DocSize>
+	<DuplexScanEnable><%= @prmtr[:scanglobal][:duplexscanenable] %></DuplexScanEnable>
+    <ScanTray>ADF</ScanTray>
+    <ColorMode><%= @prmtr[:scanglobal][:colormode] %></ColorMode>
+    <Resolution><%= @prmtr[:scanglobal][:resolution] %></Resolution>
+    <FileType><%= @prmtr[:scanglobal][:filetype] %></FileType>
+    <FileNameFixed>false</FileNameFixed>
+	<SinglePageFile><%= @prmtr[:scanglobal][:singlepagefile] %></SinglePageFile>
+	<AutoDeskew><%= @prmtr[:scanglobal][:autodeskew] %></AutoDeskew>
+	<SkipBlankPage><%= @prmtr[:scanglobal][:skipblankpage] %></SkipBlankPage>
+	<ShortEdgeBinding><%= @prmtr[:scanglobal][:shortedgebinding] %></ShortEdgeBinding>
+    <JobFinAckUrl><%= @prmtr[:scanglobal][:submit] %></JobFinAckUrl>
+</IoScanAndSend>

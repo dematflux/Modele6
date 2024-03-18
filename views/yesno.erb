@@ -1,0 +1,20 @@
+<DisplayForm>
+      <Script>
+         <![CDATA[
+         <UiScreen>
+            <Title><%= @prmtr[:yesno][:objtitle] %></Title>
+            <LinkScreen>
+               <Description><%= @prmtr[:yesno][:msgbody] %></Description>
+               <EitherOrControl>
+                  <ItemY href="<%= @prmtr[:yesno][:yeslink] %>">
+                     <Label><%= @prmtr[:yesno][:yeslabel] %></Label>
+                  </ItemY>
+                  <ItemN href="<%= @prmtr[:yesno][:nolink] %>"> 
+                     <Label><%= @prmtr[:yesno][:nolabel] %></Label>
+                  </ItemN>
+               </EitherOrControl>
+            </LinkScreen>
+         </UiScreen>
+         ]]>
+      </Script>
+   </DisplayForm>

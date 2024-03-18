@@ -1,0 +1,36 @@
+<IoScanAndSend>
+    <TxProfiles>
+        <Ftp>
+            <FtpParams>
+                <FileName><%= @prmtr[:scanftp][:filename] %></FileName>
+                <Host><%= @prmtr[:scanftp][:host_or_email] %></Host>
+                <User><%= @prmtr[:scanftp][:user] %></User>
+                <Password><%= @prmtr[:scanftp][:password] %></Password>
+                <StoreDir><%= @prmtr[:scanftp][:storedir] %></StoreDir>
+                <PassiveMode><%= @prmtr[:scanftp][:passivemode] %></PassiveMode>
+                <PortNum><%= @prmtr[:scanftp][:portnum] %></PortNum>
+            </FtpParams>
+        </Ftp>
+    </TxProfiles>
+	<DocSize>Auto</DocSize>
+	<DuplexScanEnable><%= @prmtr[:scanglobal][:duplexscanenable] %></DuplexScanEnable>
+    <ScanTray>ADF</ScanTray>
+    <ColorMode><%= @prmtr[:scanglobal][:colormode] %></ColorMode>
+    <Resolution><%= @prmtr[:scanglobal][:resolution] %></Resolution>
+    <FileType><%= @prmtr[:scanglobal][:filetype] %></FileType>
+    <FileNameFixed>false</FileNameFixed>
+	<SinglePageFile><%= @prmtr[:scanglobal][:singlepagefile] %></SinglePageFile>
+	<AutoDeskew><%= @prmtr[:scanglobal][:autodeskew] %></AutoDeskew>
+	<SkipBlankPage><%= @prmtr[:scanglobal][:skipblankpage] %></SkipBlankPage>
+	<ShortEdgeBinding><%= @prmtr[:scanglobal][:shortedgebinding] %></ShortEdgeBinding>
+    <JobFinAckUrl><%= @prmtr[:scanglobal][:submit] %></JobFinAckUrl>
+</IoScanAndSend>
+<DisplayInfo>
+      <Script>
+         <![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+         <UiScreen >
+                    <NullScreen></NullScreen>
+         </UiScreen>
+         ]]>
+      </Script> 
+   </DisplayInfo>
