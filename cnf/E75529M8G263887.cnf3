@@ -45,7 +45,7 @@
       <Multipage>True</Multipage>
       <TailleDocument>AUTO</TailleDocument>
       <TailleFichier>MOYEN</TailleFichier>
-      <SauterPagesVierges>False</SauterPagesVierges>
+      <SauterPagesVierges>True</SauterPagesVierges>
       <RectoVerso>BORD_LONG</RectoVerso>
       <SeparerFeuilles>False</SeparerFeuilles>
       <Redressement>AUTO</Redressement>
