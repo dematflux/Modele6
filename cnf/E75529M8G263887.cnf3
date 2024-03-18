@@ -18,11 +18,11 @@
     <AdresseSmtp>SSL0.OVH.NET</AdresseSmtp>
     <Port>465</Port>
     <MethodeAuth>SMPT_AUTH</MethodeAuth>
-    <NomDuCompte>herve.gallouin@dematflux.com</NomDuCompte>
-    <MotDePasse>Dematflux31</MotDePasse>
+    <NomDuCompte>testdev@suroit.fr</NomDuCompte>
+    <MotDePasse>CHATdort1</MotDePasse>
     <SslTls>SSL</SslTls>
     <VerifCertif>False</VerifCertif>
-    <AdresseEmailPeriph>herve.gallouin@dematflux.com</AdresseEmailPeriph>
+    <AdresseEmailPeriph>frederic31.annonces@gmail.com</AdresseEmailPeriph>
     <ClePublique />
     <StyleNomDeFichier>name_counter</StyleNomDeFichier>
     <NuméroDeSérie>E81471A2X120569</NuméroDeSérie>
@@ -165,6 +165,29 @@
       <SeparerFeuilles>False</SeparerFeuilles>
       <Redressement>AUTO</Redressement>
       <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_2</NumOnglet>
+      <PosRaccourci>_1</PosRaccourci>
+      <AffichageRaccourci>Social FRED</AffichageRaccourci>
+      <TypeProfil>EMAIL</TypeProfil>
+      <AdresseHoteEmail>frederic31.annonces@gmail.com</AdresseHoteEmail>
+      <NomUtilisateur />
+      <MotDePasse />
+      <Chemin />
+      <FtpPassif>False</FtpPassif>
+      <NomDeFichier>scanEMAIL</NomDeFichier>
+      <Couleurs>COULEURS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp />
     </DonneesDeChampProfil>
   </DonneesDeChampsProfil>
 </DonnesDeConfiguration3>
