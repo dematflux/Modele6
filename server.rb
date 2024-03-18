@@ -238,8 +238,8 @@ def build_iojob(endpoint, phase=nil)
 			#}
 			@prmtr[:scanemail] = {
 				:email => get_entry_from(profil_choisi, "//AdresseHoteEmail"),
-				:subject => "Document numérisé par DematFlux",
-				:msgbody => "Veuillez trouver le document en pièce jointe.",
+				:subject => "Scan de document",
+				:msgbody => "Veuillez trouver le document joint.",
 				:filename => type_choisi + "_" + dossier_choisi,
 			}
 			return erb :cmd_scansendemail
