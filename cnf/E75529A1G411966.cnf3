@@ -31,12 +31,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_1</PosRaccourci>
-      <AffichageRaccourci>Achats PINARD CARTIER CLEMENT</AffichageRaccourci>
+      <AffichageRaccourci>Achats CLEMENT PINARD CARTIER </AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>TEST997\1</Chemin>
+      <Chemin>PINAR008\1</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Achats</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -54,12 +54,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_2</PosRaccourci>
-      <AffichageRaccourci>Ventes PINARD CARTIER CLEMENT</AffichageRaccourci>
+      <AffichageRaccourci>Ventes CLEMENT PINARD CARTIER </AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>TEST997\2</Chemin>
+      <Chemin>PINAR008\2</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Ventes</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -77,12 +77,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_3</PosRaccourci>
-      <AffichageRaccourci>Banques PINARD CARTIER CLEMENT</AffichageRaccourci>
+      <AffichageRaccourci>Banques CLEMENT PINARD CARTIER </AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>TEST997\3</Chemin>
+      <Chemin>PINAR008\3</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Banques</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -100,12 +100,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_4</PosRaccourci>
-      <AffichageRaccourci>Divers PINARD CARTIER CLEMENT</AffichageRaccourci>
+      <AffichageRaccourci>Divers CLEMENT PINARD CARTIER </AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>TEST997\4</Chemin>
+      <Chemin>PINAR008\4</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Divers</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -123,12 +123,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_5</PosRaccourci>
-      <AffichageRaccourci>Social PINARD CARTIER CLEMENT</AffichageRaccourci>
+      <AffichageRaccourci>Social CLEMENT PINARD CARTIER </AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>TEST997\5</Chemin>
+      <Chemin>PINAR008\5</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Social</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -146,12 +146,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_6</PosRaccourci>
-      <AffichageRaccourci>Juridique PINARD CARTIER CLEMENT</AffichageRaccourci>
+      <AffichageRaccourci>Juridique CLEMENT PINARD CARTIER </AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>TEST997\6</Chemin>
+      <Chemin>PINAR008\6</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Juridique</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -169,12 +169,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_2</NumOnglet>
       <PosRaccourci>_1</PosRaccourci>
-      <AffichageRaccourci>Achats PINARD CARTIER OCEANE</AffichageRaccourci>
+      <AffichageRaccourci>Achats OCEANE PINARD CARTIER </AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>TEST997\1</Chemin>
+      <Chemin>PINAR007\1</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Achats</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -192,12 +192,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_2</NumOnglet>
       <PosRaccourci>_2</PosRaccourci>
-      <AffichageRaccourci>Ventes PINARD CARTIER OCEANE</AffichageRaccourci>
+      <AffichageRaccourci>Ventes OCEANE PINARD CARTIER </AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>TEST997\2</Chemin>
+      <Chemin>PINAR007\2</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Ventes</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -215,12 +215,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_2</NumOnglet>
       <PosRaccourci>_3</PosRaccourci>
-      <AffichageRaccourci>Banques PINARD CARTIER OCEANE</AffichageRaccourci>
+      <AffichageRaccourci>Banques OCEANE PINARD CARTIER </AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>TEST997\3</Chemin>
+      <Chemin>PINAR007\3</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Banques</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -238,12 +238,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_2</NumOnglet>
       <PosRaccourci>_4</PosRaccourci>
-      <AffichageRaccourci>Divers PINARD CARTIER OCEANE</AffichageRaccourci>
+      <AffichageRaccourci>Divers OCEANE PINARD CARTIER </AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>TEST997\4</Chemin>
+      <Chemin>PINAR007\4</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Divers</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -261,12 +261,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_2</NumOnglet>
       <PosRaccourci>_5</PosRaccourci>
-      <AffichageRaccourci>Social PINARD CARTIER OCEANE</AffichageRaccourci>
+      <AffichageRaccourci>Social OCEANE PINARD CARTIER </AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>TEST997\5</Chemin>
+      <Chemin>PINAR007\5</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Social</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -284,12 +284,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_2</NumOnglet>
       <PosRaccourci>_6</PosRaccourci>
-      <AffichageRaccourci>Juridique PINARD CARTIER OCEANE</AffichageRaccourci>
+      <AffichageRaccourci>Juridique OCEANE PINARD CARTIER </AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>TEST997\6</Chemin>
+      <Chemin>PINAR007\6</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Juridique</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
