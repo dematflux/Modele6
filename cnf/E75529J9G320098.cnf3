@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DonnesDeConfiguration3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Nom>FOURNIL H SARL</Nom>
+  <Nom>CORSE PLOMBERIE CLIMATISATION - PEGASUS</Nom>
   <DonneesDeChampsGeneral>
     <MotDePasseScanner />
     <Contact />
@@ -31,12 +31,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_1</PosRaccourci>
-      <AffichageRaccourci>Achats FOURNIL H</AffichageRaccourci>
+      <AffichageRaccourci>Achats CORSE PLOMBERIE CLIMATISATION</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>FOURN020\1</Chemin>
+      <Chemin>CORSE002\1</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Achats</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -54,12 +54,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_2</PosRaccourci>
-      <AffichageRaccourci>Ventes FOURNIL H</AffichageRaccourci>
+      <AffichageRaccourci>Ventes CORSE PLOMBERIE CLIMATISATION</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>FOURN020\2</Chemin>
+      <Chemin>CORSE002\2</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Ventes</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -77,12 +77,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_3</PosRaccourci>
-      <AffichageRaccourci>Banques FOURNIL H</AffichageRaccourci>
+      <AffichageRaccourci>Banques CORSE PLOMBERIE CLIMATISATION</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>FOURN020\3</Chemin>
+      <Chemin>CORSE002\3</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Banques</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -100,12 +100,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_4</PosRaccourci>
-      <AffichageRaccourci>Divers FOURNIL H</AffichageRaccourci>
+      <AffichageRaccourci>Divers CORSE PLOMBERIE CLIMATISATION</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>FOURN020\4</Chemin>
+      <Chemin>CORSE002\4</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Divers</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -123,12 +123,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_5</PosRaccourci>
-      <AffichageRaccourci>Social FOURNIL H</AffichageRaccourci>
+      <AffichageRaccourci>Social CORSE PLOMBERIE CLIMATISATION</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>FOURN020\5</Chemin>
+      <Chemin>CORSE002\5</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Social</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -146,12 +146,150 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_6</PosRaccourci>
-      <AffichageRaccourci>Juridique FOURNIL H</AffichageRaccourci>
+      <AffichageRaccourci>Juridique CORSE PLOMBERIE CLIMATISATION</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>FOURN020\6</Chemin>
+      <Chemin>CORSE002\6</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Juridique</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_2</NumOnglet>
+      <PosRaccourci>_1</PosRaccourci>
+      <AffichageRaccourci>Achats PEGASUS</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
+      <NomUtilisateur>CNX\acdftp</NomUtilisateur>
+      <MotDePasse>ZErTy!J2S4S</MotDePasse>
+      <Chemin>PEGAS005\1</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Achats</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_300</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_2</NumOnglet>
+      <PosRaccourci>_2</PosRaccourci>
+      <AffichageRaccourci>Ventes PEGASUS</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
+      <NomUtilisateur>CNX\acdftp</NomUtilisateur>
+      <MotDePasse>ZErTy!J2S4S</MotDePasse>
+      <Chemin>PEGAS005\2</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Ventes</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_300</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_2</NumOnglet>
+      <PosRaccourci>_3</PosRaccourci>
+      <AffichageRaccourci>Banques PEGASUS</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
+      <NomUtilisateur>CNX\acdftp</NomUtilisateur>
+      <MotDePasse>ZErTy!J2S4S</MotDePasse>
+      <Chemin>PEGAS005\3</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Banques</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_2</NumOnglet>
+      <PosRaccourci>_4</PosRaccourci>
+      <AffichageRaccourci>Divers PEGASUS</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
+      <NomUtilisateur>CNX\acdftp</NomUtilisateur>
+      <MotDePasse>ZErTy!J2S4S</MotDePasse>
+      <Chemin>PEGAS005\4</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Divers</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_2</NumOnglet>
+      <PosRaccourci>_5</PosRaccourci>
+      <AffichageRaccourci>Social PEGASUS</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
+      <NomUtilisateur>CNX\acdftp</NomUtilisateur>
+      <MotDePasse>ZErTy!J2S4S</MotDePasse>
+      <Chemin>PEGAS005\5</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Social</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_2</NumOnglet>
+      <PosRaccourci>_6</PosRaccourci>
+      <AffichageRaccourci>Juridique PEGASUS</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
+      <NomUtilisateur>CNX\acdftp</NomUtilisateur>
+      <MotDePasse>ZErTy!J2S4S</MotDePasse>
+      <Chemin>PEGAS005\6</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Juridique</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
