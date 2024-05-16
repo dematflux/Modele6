@@ -2,7 +2,7 @@
 <DonnesDeConfiguration3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Nom>MARQUES</Nom>
   <DonneesDeChampsGeneral>
-    <MotDePasseScanner />
+    <MotDePasseScanner>initpass</MotDePasseScanner>
     <Contact />
     <Emplacement />
     <Volume>FORT</Volume>
@@ -31,12 +31,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_1</PosRaccourci>
-      <AffichageRaccourci>Achats NOMDOSSIER</AffichageRaccourci>
+      <AffichageRaccourci>Achats SAS MARQUES</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>CODE1DIA\1</Chemin>
+      <Chemin>MARQU055/1</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Achats</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -54,12 +54,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_2</PosRaccourci>
-      <AffichageRaccourci>Ventes NOMDOSSIER</AffichageRaccourci>
+      <AffichageRaccourci>Ventes SAS MARQUES</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>CODE1DIA\2</Chemin>
+      <Chemin>MARQU055/2</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Ventes</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -77,12 +77,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_3</PosRaccourci>
-      <AffichageRaccourci>Banques NOMDOSSIER</AffichageRaccourci>
+      <AffichageRaccourci>Banques SAS MARQUES</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>CODE1DIA\3</Chemin>
+      <Chemin>MARQU055/3</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Banques</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -100,12 +100,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_4</PosRaccourci>
-      <AffichageRaccourci>Divers NOMDOSSIER</AffichageRaccourci>
+      <AffichageRaccourci>Divers SAS MARQUES</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>CODE1DIA\4</Chemin>
+      <Chemin>MARQU055/4</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Divers</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -123,12 +123,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_5</PosRaccourci>
-      <AffichageRaccourci>Social NOMDOSSIER</AffichageRaccourci>
+      <AffichageRaccourci>Social SAS MARQUES</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>CODE1DIA\5</Chemin>
+      <Chemin>MARQU055/5</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Social</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -146,12 +146,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_6</PosRaccourci>
-      <AffichageRaccourci>Juridique NOMDOSSIER</AffichageRaccourci>
+      <AffichageRaccourci>Juridique SAS MARQUES</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>CODE1DIA\6</Chemin>
+      <Chemin>MARQU055/6</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Juridique</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
