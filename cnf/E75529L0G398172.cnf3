@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DonnesDeConfiguration3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nom>PHENIX ATTACHMENTS - ABRASIF SOLUTIONS - SCI JONES</Nom>
+  <DonneesDeChampsGeneral>
+    <MotDePasseScanner />
+    <Contact />
+    <Emplacement />
+    <Volume>FORT</Volume>
+    <AlerteMaintenanceProgrammee>False</AlerteMaintenanceProgrammee>
+    <HeureEteAuto>True</HeureEteAuto>
+    <SynchroniserSntp>True</SynchroniserSntp>
+    <InterfaceReseau>True</InterfaceReseau>
+    <ObjetEmail>URGENT</ObjetEmail>
+    <MessageEmail>SCAN TO MAIL</MessageEmail>
+    <LimiteTaille>True</LimiteTaille>
+    <TailleMaxi>15</TailleMaxi>
+    <DemanderNotif>False</DemanderNotif>
+    <AdresseSmtp>SSL0.OVH.NET</AdresseSmtp>
+    <Port>465</Port>
+    <MethodeAuth>SMPT_AUTH</MethodeAuth>
+    <NomDuCompte>scan2mail@dematflux.com</NomDuCompte>
+    <MotDePasse>5Sn3yQ9dW</MotDePasse>
+    <SslTls>SSL</SslTls>
+    <VerifCertif>False</VerifCertif>
+    <AdresseEmailPeriph>scan2mail@dematflux.com</AdresseEmailPeriph>
+    <ClePublique />
+    <StyleNomDeFichier>name_date_counter</StyleNomDeFichier>
+    <NuméroDeSérie>E75529L0G398172</NuméroDeSérie>
+  </DonneesDeChampsGeneral>
+  <DonneesDeChampsProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_1</NumOnglet>
+      <PosRaccourci>_1</PosRaccourci>
+      <AffichageRaccourci>Achats PHENIX ATTACHMENTS</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-SAGESCO</NomUtilisateur>
+      <MotDePasse>F2xAu23j</MotDePasse>
+      <Chemin>DFLUXAV/PHENIX ATTACHMENTS/Achats</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Achats</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_1</NumOnglet>
+      <PosRaccourci>_2</PosRaccourci>
+      <AffichageRaccourci>Ventes PHENIX ATTACHMENTS</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-SAGESCO</NomUtilisateur>
+      <MotDePasse>F2xAu23j</MotDePasse>
+      <Chemin>DFLUXAV/PHENIX ATTACHMENTS/Ventes</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Ventes</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_1</NumOnglet>
+      <PosRaccourci>_3</PosRaccourci>
+      <AffichageRaccourci>Banques PHENIX ATTACHMENTS</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-SAGESCO</NomUtilisateur>
+      <MotDePasse>F2xAu23j</MotDePasse>
+      <Chemin>DFLUXGED/PHENIX ATTACHMENTS/Banques</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Banques</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_1</NumOnglet>
+      <PosRaccourci>_4</PosRaccourci>
+      <AffichageRaccourci>Autres PHENIX ATTACHMENTS</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-SAGESCO</NomUtilisateur>
+      <MotDePasse>F2xAu23j</MotDePasse>
+      <Chemin>DFLUXGED/PHENIX ATTACHMENTS/Autres</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Autres</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_1</NumOnglet>
+      <PosRaccourci>_5</PosRaccourci>
+      <AffichageRaccourci>Urgences PHENIX ATTACHMENTS</AffichageRaccourci>
+      <TypeProfil>EMAIL</TypeProfil>
+      <AdresseHoteEmail>a.dasneves@sagesco.fr</AdresseHoteEmail>
+      <NomUtilisateur />
+      <MotDePasse />
+      <Chemin />
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>PHENIX ATTACHMENTS_Urgences</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_2</NumOnglet>
+      <PosRaccourci>_1</PosRaccourci>
+      <AffichageRaccourci>Achats ABRASIF SOLUTIONS</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-SAGESCO</NomUtilisateur>
+      <MotDePasse>F2xAu23j</MotDePasse>
+      <Chemin>DFLUXAV/ABRASIF SOLUTIONS/Achats</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Achats</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_2</NumOnglet>
+      <PosRaccourci>_2</PosRaccourci>
+      <AffichageRaccourci>Ventes ABRASIF SOLUTIONS</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-SAGESCO</NomUtilisateur>
+      <MotDePasse>F2xAu23j</MotDePasse>
+      <Chemin>DFLUXAV/ABRASIF SOLUTIONS/Ventes</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Ventes</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_2</NumOnglet>
+      <PosRaccourci>_3</PosRaccourci>
+      <AffichageRaccourci>Banques ABRASIF SOLUTIONS</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-SAGESCO</NomUtilisateur>
+      <MotDePasse>F2xAu23j</MotDePasse>
+      <Chemin>DFLUXGED/ABRASIF SOLUTIONS/Banques</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Banques</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_2</NumOnglet>
+      <PosRaccourci>_4</PosRaccourci>
+      <AffichageRaccourci>Autres ABRASIF SOLUTIONS</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-SAGESCO</NomUtilisateur>
+      <MotDePasse>F2xAu23j</MotDePasse>
+      <Chemin>DFLUXGED/ABRASIF SOLUTIONS/Autres</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Autres</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_2</NumOnglet>
+      <PosRaccourci>_5</PosRaccourci>
+      <AffichageRaccourci>Urgences ABRASIF SOLUTIONS</AffichageRaccourci>
+      <TypeProfil>EMAIL</TypeProfil>
+      <AdresseHoteEmail>a.dasneves@sagesco.fr</AdresseHoteEmail>
+      <NomUtilisateur />
+      <MotDePasse />
+      <Chemin />
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>ABRASIF SOLUTIONS_Urgences</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_3</NumOnglet>
+      <PosRaccourci>_1</PosRaccourci>
+      <AffichageRaccourci>Achats SCI JONES</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-SAGESCO</NomUtilisateur>
+      <MotDePasse>F2xAu23j</MotDePasse>
+      <Chemin>DFLUXAV/SCI JONES/Achats</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Achats</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_3</NumOnglet>
+      <PosRaccourci>_2</PosRaccourci>
+      <AffichageRaccourci>Ventes SCI JONES</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-SAGESCO</NomUtilisateur>
+      <MotDePasse>F2xAu23j</MotDePasse>
+      <Chemin>DFLUXAV/SCI JONES/Ventes</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Ventes</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_3</NumOnglet>
+      <PosRaccourci>_3</PosRaccourci>
+      <AffichageRaccourci>Banques SCI JONES</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-SAGESCO</NomUtilisateur>
+      <MotDePasse>F2xAu23j</MotDePasse>
+      <Chemin>DFLUXGED/SCI JONES/Banques</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Banques</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_3</NumOnglet>
+      <PosRaccourci>_4</PosRaccourci>
+      <AffichageRaccourci>Autres SCI JONES</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>ftp.cluster027.hosting.ovh.net</AdresseHoteEmail>
+      <NomUtilisateur>dematflush-SAGESCO</NomUtilisateur>
+      <MotDePasse>F2xAu23j</MotDePasse>
+      <Chemin>DFLUXGED/SCI JONES/Autres</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Autres</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_3</NumOnglet>
+      <PosRaccourci>_5</PosRaccourci>
+      <AffichageRaccourci>Urgences SCI JONES</AffichageRaccourci>
+      <TypeProfil>EMAIL</TypeProfil>
+      <AdresseHoteEmail>a.dasneves@sagesco.fr</AdresseHoteEmail>
+      <NomUtilisateur />
+      <MotDePasse />
+      <Chemin />
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>SCI JONES_Urgences</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+  </DonneesDeChampsProfil>
+</DonnesDeConfiguration3>
