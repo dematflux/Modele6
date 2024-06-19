@@ -31,7 +31,7 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_1</PosRaccourci>
-      <AffichageRaccourci>Achats PONCINI CAMI ASSURANCES &amp; PATRIMOINE</AffichageRaccourci>
+      <AffichageRaccourci>Achats PONCINI CAMI ASSURANCES ET PATRIMOINE</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
@@ -54,7 +54,7 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_2</PosRaccourci>
-      <AffichageRaccourci>Ventes PONCINI CAMI ASSURANCES &amp; PATRIMOINE</AffichageRaccourci>
+      <AffichageRaccourci>Ventes PONCINI CAMI ASSURANCES ET PATRIMOINE</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
@@ -77,7 +77,7 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_3</PosRaccourci>
-      <AffichageRaccourci>Banques PONCINI CAMI ASSURANCES &amp; PATRIMOINE</AffichageRaccourci>
+      <AffichageRaccourci>Banques PONCINI CAMI ASSURANCES ET PATRIMOINE</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
@@ -100,7 +100,7 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_4</PosRaccourci>
-      <AffichageRaccourci>Divers PONCINI CAMI ASSURANCES &amp; PATRIMOINE</AffichageRaccourci>
+      <AffichageRaccourci>Divers PONCINI CAMI ASSURANCES ET PATRIMOINE</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
@@ -123,7 +123,7 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_5</PosRaccourci>
-      <AffichageRaccourci>Social PONCINI CAMI ASSURANCES &amp; PATRIMOINE</AffichageRaccourci>
+      <AffichageRaccourci>Social PONCINI CAMI ASSURANCES ET PATRIMOINE</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
@@ -146,7 +146,7 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_6</PosRaccourci>
-      <AffichageRaccourci>Juridique PONCINI CAMI ASSURANCES &amp; PATRIMOINE</AffichageRaccourci>
+      <AffichageRaccourci>Juridique PONCINI CAMI ASSURANCES ET PATRIMOINE</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
