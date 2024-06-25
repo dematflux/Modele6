@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DonnesDeConfiguration3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Nom>RESEAU TECHNOLOGIES SERVICES</Nom>
+  <Nom>EURL ALAIN DUMESNIL</Nom>
   <DonneesDeChampsGeneral>
     <MotDePasseScanner />
     <Contact />
@@ -31,12 +31,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_1</PosRaccourci>
-      <AffichageRaccourci>Achats RESEAU TECHNOLOGIES SERVICES</AffichageRaccourci>
+      <AffichageRaccourci>Achats EURL ALAIN DUMESNIL</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>RESEA019\1</Chemin>
+      <Chemin>ADUME001\1</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Achats</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -54,12 +54,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_2</PosRaccourci>
-      <AffichageRaccourci>Ventes RESEAU TECHNOLOGIES SERVICES</AffichageRaccourci>
+      <AffichageRaccourci>Ventes EURL ALAIN DUMESNIL</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>RESEA019\2</Chemin>
+      <Chemin>ADUME001\2</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Ventes</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -77,12 +77,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_3</PosRaccourci>
-      <AffichageRaccourci>Banques RESEAU TECHNOLOGIES SERVICES</AffichageRaccourci>
+      <AffichageRaccourci>Banques EURL ALAIN DUMESNIL</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>RESEA019\3</Chemin>
+      <Chemin>ADUME001\3</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Banques</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -100,12 +100,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_4</PosRaccourci>
-      <AffichageRaccourci>Divers RESEAU TECHNOLOGIES SERVICES</AffichageRaccourci>
+      <AffichageRaccourci>Divers EURL ALAIN DUMESNIL</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>RESEA019\4</Chemin>
+      <Chemin>ADUME001\4</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Divers</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -123,12 +123,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_5</PosRaccourci>
-      <AffichageRaccourci>Social RESEAU TECHNOLOGIES SERVICES</AffichageRaccourci>
+      <AffichageRaccourci>Social EURL ALAIN DUMESNIL</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>RESEA019\5</Chemin>
+      <Chemin>ADUME001\5</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Social</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
@@ -146,12 +146,12 @@
     <DonneesDeChampProfil>
       <NumOnglet>_1</NumOnglet>
       <PosRaccourci>_6</PosRaccourci>
-      <AffichageRaccourci>Juridique RESEAU TECHNOLOGIES SERVICES</AffichageRaccourci>
+      <AffichageRaccourci>Juridique EURL ALAIN DUMESNIL</AffichageRaccourci>
       <TypeProfil>FTP</TypeProfil>
       <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
-      <Chemin>RESEA019\6</Chemin>
+      <Chemin>ADUME001\6</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Juridique</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
