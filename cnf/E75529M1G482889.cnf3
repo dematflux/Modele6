@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DonnesDeConfiguration3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Nom>BOUTINAUD - TRADI'WOOD IMMO - HOLDING TRADI RB -  SCI NBN IMMO - SCI LINT RB</Nom>
+  <Nom>BOUTINAUD - TRADI'WOOD IMMO - HOLDING TRADI RB -  SCI NBN IMMO - SCI LINT RB - PRO BATI 19</Nom>
   <DonneesDeChampsGeneral>
     <MotDePasseScanner>initpass</MotDePasseScanner>
     <Contact />
@@ -566,6 +566,98 @@
       <NomUtilisateur>CNX\acdftp</NomUtilisateur>
       <MotDePasse>ZErTy!J2S4S</MotDePasse>
       <Chemin>LINTR001/4</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Divers</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_6</NumOnglet>
+      <PosRaccourci>_1</PosRaccourci>
+      <AffichageRaccourci>Achats PRO BATI 19</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
+      <NomUtilisateur>CNX\acdftp</NomUtilisateur>
+      <MotDePasse>ZErTy!J2S4S</MotDePasse>
+      <Chemin>PROBA003/1</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Achats</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_300</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_6</NumOnglet>
+      <PosRaccourci>_2</PosRaccourci>
+      <AffichageRaccourci>Ventes PRO BATI 19</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
+      <NomUtilisateur>CNX\acdftp</NomUtilisateur>
+      <MotDePasse>ZErTy!J2S4S</MotDePasse>
+      <Chemin>PROBA003/2</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Ventes</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_300</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_6</NumOnglet>
+      <PosRaccourci>_3</PosRaccourci>
+      <AffichageRaccourci>Banques PRO BATI 19</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
+      <NomUtilisateur>CNX\acdftp</NomUtilisateur>
+      <MotDePasse>ZErTy!J2S4S</MotDePasse>
+      <Chemin>PROBA003/3</Chemin>
+      <FtpPassif>True</FtpPassif>
+      <NomDeFichier>Banques</NomDeFichier>
+      <Couleurs>GRIS</Couleurs>
+      <Resolution>_200</Resolution>
+      <TypeFichier>PDF</TypeFichier>
+      <Multipage>True</Multipage>
+      <TailleDocument>AUTO</TailleDocument>
+      <TailleFichier>MOYEN</TailleFichier>
+      <SauterPagesVierges>True</SauterPagesVierges>
+      <RectoVerso>BORD_LONG</RectoVerso>
+      <SeparerFeuilles>False</SeparerFeuilles>
+      <Redressement>AUTO</Redressement>
+      <PortFtp>21</PortFtp>
+    </DonneesDeChampProfil>
+    <DonneesDeChampProfil>
+      <NumOnglet>_6</NumOnglet>
+      <PosRaccourci>_4</PosRaccourci>
+      <AffichageRaccourci>Divers PRO BATI 19</AffichageRaccourci>
+      <TypeProfil>FTP</TypeProfil>
+      <AdresseHoteEmail>suite.acom-online.com</AdresseHoteEmail>
+      <NomUtilisateur>CNX\acdftp</NomUtilisateur>
+      <MotDePasse>ZErTy!J2S4S</MotDePasse>
+      <Chemin>PROBA003/4</Chemin>
       <FtpPassif>True</FtpPassif>
       <NomDeFichier>Divers</NomDeFichier>
       <Couleurs>GRIS</Couleurs>
