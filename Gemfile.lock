@@ -86,8 +86,8 @@ GEM
     websocket-extensions (0.1.5)
 
 PLATFORMS
-  x64-mingw-ucrt
   x86_64-linux
+  x64-mingw-ucrt
 
 DEPENDENCIES
   http
